@@ -10,6 +10,7 @@ fun main(){
     age+=1 //var variable can be reassigned
     println("Name is : "+name)
     println("Age is : "+age)
+    println("Age is ${age}") //String templates $ like f string in python
 
 }
 
