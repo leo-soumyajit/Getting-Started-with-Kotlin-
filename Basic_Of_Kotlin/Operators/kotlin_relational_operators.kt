@@ -1,4 +1,4 @@
-package Basic_Of_Kotlin
+package Basic_Of_Kotlin.Operators
 
 //TODO DOCS : https://www.geeksforgeeks.org/kotlin-operators/
 //TODO DOCS : https://kotlinlang.org/docs/kotlin-tour-basic-types.html
