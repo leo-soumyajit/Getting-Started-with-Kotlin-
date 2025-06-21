@@ -9,12 +9,37 @@ package Basic_Of_Kotlin.`Control Flow`
 //}
 
 fun main(){
-    var num : Int = 1
-    while(num<=10){
-        println(num)
-        num++
-    }
+//    var num : Int = 1
+//    while(num<=10){
+//        println(num)
+//        num++
+//    }
+    sumOfNNumbers()
 }
+fun sumOfNNumbers(){
+    var sum = 0
+    var i = 1;
+    while(i<=100){
+        sum +=i;
+        i++
+    }
+    print("$sum ")
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

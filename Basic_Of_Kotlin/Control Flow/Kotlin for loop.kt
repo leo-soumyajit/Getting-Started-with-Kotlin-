@@ -26,4 +26,12 @@ fun main(){
     for (i in 10 downTo 1 step 3) {
         print("$i ")
     }
+    println()
+
+    StringWithLoop("Soumyajit")
+}
+fun StringWithLoop(a: String){
+    for (i in a){
+        println(i)
+    }
 }
