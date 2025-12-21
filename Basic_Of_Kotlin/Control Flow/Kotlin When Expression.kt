@@ -19,7 +19,6 @@ fun main(){
         6-> print("Friday")
         7-> print("Saturday")
         else-> print("Noh Invalid Input")
-
     }
 
 
